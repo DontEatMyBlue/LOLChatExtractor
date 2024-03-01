@@ -1,0 +1,8 @@
+{
+    "main" : {
+        "guide" : "How to Find Your Log File:",
+        "title" : "LOL CHAT EXTRACTOR",
+        "select" : "Select Log File",
+        "extract" : "Extract"
+    }
+}
